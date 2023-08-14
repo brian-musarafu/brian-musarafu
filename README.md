@@ -9,13 +9,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-musarafu&label=Profile%20views&color=0e75b6&style=flat" alt="brian-musarafu" /> </p>
 
 
-- 🔭 I’m currently working on [Museum Tour Guide, an application for the](https://mainstack.me/dangwe_01)
+- 🔭 I’m currently working with SERPA AFRICA to customize Odoo ERP to fit various companies' process flows and building new modules that will be   integrated with the ERP.
 
 - 🌱 I’m currently learning **Java Spring,Odoo ERP, Python frameworks**
 
 - 👯 I’m looking to collaborate on **Projects, Web and Mobile application development.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://mainstack.me/dangwe_01)
+- 👨‍💻 All of my projects are available at www.dangwe.online
 
 - 💬 Ask me about **javascript, typescript, react, react-native,**
 
