@@ -1,4 +1,4 @@
-![MasterHead](https://mainstack.me/_next/image?url=https%3A%2F%2Fmedia.mainstack.me%2Fimages%2Ftwitter_1683804776995.webp&w=1920&q=75)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQFrxDQh-bbwgw/profile-displaybackgroundimage-shrink_350_1400/0/1697045502197?e=1704931200&v=beta&t=_tgOIxVHi9qU6G93fT0GKBtykJBsICResory6pRut_w)
 
 <h1 align="center">Hi 👋, I'm Brian Musarafu</h1>
 
