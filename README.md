@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQFrxDQh-bbwgw/profile-displaybackgroundimage-shrink_350_1400/0/1697045502197?e=1704931200&v=beta&t=_tgOIxVHi9qU6G93fT0GKBtykJBsICResory6pRut_w)
-
 <h1 align="center">Hi 👋, I'm Brian Musarafu</h1>
 
 <p align="center">I am a skilled Software Developer from Zimbabwe with a strong passion for creating high-quality software solutions. With over 2 years of experience in web and mobile development, I specialize in building responsive and scalable web applications using technologies such as React, React Native, TypeScript, Python, and Java. I have extensive knowledge and expertise in these languages and frameworks, allowing me to tackle complex projects and deliver robust solutions.</p>
@@ -9,15 +7,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brian-musarafu&label=Profile%20views&color=0e75b6&style=flat" alt="brian-musarafu" /> </p>
 
 
-- 🔭 I’m currently working with SERPA AFRICA to customize Odoo ERP to fit various companies' process flows and building new modules that will be   integrated with the ERP.
+- 🔭 I’m currently working with Sendhome a remittance company based in South Africa.
 
-- 🌱 I’m currently learning **Java Spring,Odoo ERP, Python frameworks**
+- 🌱 I’m currently learning **Java Spring, Flutter, Microsoft Azure Cloud**
 
 - 👯 I’m looking to collaborate on **Projects, Web and Mobile application development.**
 
-- 👨‍💻 All of my projects are available at www.dangwe.online
-
-- 💬 Ask me about **javascript, typescript, react, react-native,**
+- 💬 Ask me about **Flutter, Python, WordPress, React,**
 
 - 📫 How to reach me **musarafubrian01@gmail.com**
 
